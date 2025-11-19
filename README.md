@@ -2,10 +2,9 @@
 
 **`Desenvolvedor Back-end em formação | Estudante de Ciência da Computação UERJ`**
 
-Me chamo Hugo Luís, tenho 24 anos e sou do Rio de Janeiro. Concluí o Ensino Médio integrado ao Técnico em Informática em 2019 e atualmente curso Ciência da Computação na UERJ. Sou apaixonado por tecnologia e estou sempre em busca de aprender, evoluir e construir soluções que façam parte do futuro que estamos criando. 
+Me chamo Hugo Luís, tenho 24 anos e sou do Rio de Janeiro. Concluí o Ensino Médio integrado ao Técnico em Informática em 2019 e atualmente curso Ciência da Computação na UERJ. Tenho grande interesse em desenvolvimento de software e busco evoluir constantemente. 
 
-Tenho interesse especial no desenvolvimento Back-end e busco construir meu conhecimento em lógica, estruturas de dados, arquitetura e boas práticas. Gosto de aprender criando projetos e estudando como as coisas realmente funcionam.
-
+Minha maior afinidade é com o desenvolvimento back-end, no qual estou me aperfeiçoando.
 
 ### 🤖 Linguagens e Tecnologias
 
