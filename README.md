@@ -22,7 +22,7 @@ Assim que forem concluídos, estarão disponíveis aqui no meu GitHub.
 
 ### 📚 Atualmente estudando:
 
-Estruturas de Dados, Java…
+Estruturas de Dados e Java
 
 🎯 Objetivo:
 Oportunidade de estágio em Desenvolvimento Back-end.
