@@ -3,8 +3,11 @@
 **`Desenvolvedor Back-end em formação | Estudante de Ciência da Computação UERJ`**
 
 Me chamo Hugo Luís, tenho 24 anos e sou do Rio de Janeiro. Concluí o Ensino Médio integrado ao Técnico em Informática em 2019 e atualmente curso Ciência da Computação na UERJ. Tenho grande interesse em desenvolvimento de software e busco evoluir constantemente. 
-
 Minha maior afinidade é com o desenvolvimento back-end, no qual estou me aperfeiçoando.
+
+No meu tempo livre gosto de jogar, de praticar esportes, de conhecer lugares novos e tenho uma paixão por filmes e séries. 
+
+*“What we do in life echoes in eternity.” — Maximus, Gladiator (2000).*
 
 ### 🤖 Linguagens e Tecnologias
 
@@ -14,17 +17,13 @@ Minha maior afinidade é com o desenvolvimento back-end, no qual estou me aperfe
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-### 🚧 Projetos
+### 🛠️ Projetos
 
-Atualmente estou desenvolvendo meus primeiros projetos pessoais em Java.  
-Assim que forem concluídos, estarão disponíveis aqui no meu GitHub.
+-**[Sistema de Gerenciador de Tarefas](https://github.com/hugolcadev/sistema-gerenciamento)**
 
 ### 📚 Atualmente estudando:
 
 Estruturas de Dados e Java
-
-🎯 Objetivo:
-Oportunidade de estágio em Desenvolvimento Back-end.
 
 ### 📫 Onde me encontrar
 
