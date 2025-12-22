@@ -2,10 +2,7 @@
 
 **`Desenvolvedor Back-end em formação | Estudante de Ciência da Computação UERJ`**
 
-Me chamo Hugo Luís, tenho 24 anos e sou do Rio de Janeiro. Concluí o Ensino Médio integrado ao Técnico em Informática em 2019 e atualmente curso Ciência da Computação na UERJ. Tenho grande interesse em desenvolvimento de software e busco evoluir constantemente. 
-Minha maior afinidade é com o desenvolvimento back-end, no qual estou me aperfeiçoando.
-
-No meu tempo livre gosto de jogar, de praticar esportes, de conhecer lugares novos e tenho uma paixão por filmes e séries. 
+Olá, me chamo Hugo e no meu tempo livre gosto de jogar, de praticar esportes, de conhecer lugares novos e tenho uma paixão por filmes e séries. 
 
 *“What we do in life echoes in eternity.” — Maximus, Gladiator (2000).*
 
@@ -26,7 +23,7 @@ No meu tempo livre gosto de jogar, de praticar esportes, de conhecer lugares nov
 
 Estruturas de Dados e Java
 
-### 📫 Onde me encontrar
+### 📫 Links
 
 LinkedIn: https://www.linkedin.com/in/hugo-lc-abreu/ <br>
-Email: hugolcabreu@gmail.com
+
