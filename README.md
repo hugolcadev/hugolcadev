@@ -19,7 +19,7 @@ Olá, me chamo Hugo e no meu tempo livre gosto de jogar, de praticar esportes, d
 
 -**[Sistema de Gerenciador de Tarefas](https://github.com/hugolcadev/sistema-gerenciamento)**
 
--**[MonoChampionSaga — League of Legends Matchup Tracker](https://github.com/hugolcadev/MonoChampionSaga)**
+-**[MonoChampionSaga - League of Legends Matchup Tracker](https://github.com/hugolcadev/MonoChampionSaga)**
 
 ### 📚 Atualmente estudando:
 
