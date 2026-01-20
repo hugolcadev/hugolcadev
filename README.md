@@ -25,7 +25,7 @@ Olá, me chamo Hugo e no meu tempo livre gosto de jogar, de praticar esportes, d
 
 Estruturas de Dados e Java
 
--**[Exercícios e projetos da carreira de java - Alura](https://github.com/hugolcadev/java-fundamentos-alura)
+-[Exercícios e projetos da carreira de java - Alura](https://github.com/hugolcadev/java-fundamentos-alura)
 
 ### 📫 Links
 
