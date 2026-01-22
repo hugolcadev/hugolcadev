@@ -17,15 +17,15 @@ Olá, me chamo Hugo e no meu tempo livre gosto de jogar, de praticar esportes, d
 
 ### 🛠️ Projetos
 
--**[MonoChampionSaga - League of Legends Matchup Tracker](https://github.com/hugolcadev/MonoChampionSaga)**
+- **[MonoChampionSaga - League of Legends Matchup Tracker](https://github.com/hugolcadev/MonoChampionSaga)**
 
--**[Sistema de Gerenciador de Tarefas](https://github.com/hugolcadev/sistema-gerenciamento)**
+- **[Sistema de Gerenciador de Tarefas](https://github.com/hugolcadev/sistema-gerenciamento)**
 
-### 📚 Atualmente estudando:
+### 📚 Atualmente estudando
 
 Estruturas de Dados e Java
 
--**[Exercícios e projetos da carreira de java - Alura](https://github.com/hugolcadev/java-fundamentos-alura)**
+- **[Exercícios e projetos da carreira de java - Alura](https://github.com/hugolcadev/java-fundamentos-alura)**
 
 ### 📫 Links
 
