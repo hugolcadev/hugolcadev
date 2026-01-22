@@ -23,7 +23,7 @@ Olá, me chamo Hugo e no meu tempo livre gosto de jogar, de praticar esportes, d
 
 ### 📚 Atualmente estudando
 
-Estruturas de Dados e Java
+Java Back-end 
 
 - **[Exercícios e projetos da carreira de java - Alura](https://github.com/hugolcadev/java-fundamentos-alura)**
 
